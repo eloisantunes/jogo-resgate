@@ -13,5 +13,5 @@ Durante esse projeto enfrentei dificuldade ao selecionar e posicionar corretamen
     
   ## Sobre o Resultado Final
   
-  Finalizar esse projeto me agregou diversos novos conhecimentos sobre JavaScript, destaco aqui a <b>utilização de funcôes.</b> 
+  Finalizar esse projeto me agregou diversos novos conhecimentos sobre JavaScript, destaco aqui a <b>utilização de funcões.</b> 
   Estou satisfeita com o resultado e esse com certeza foi um grande passo de uma longa jornada.
