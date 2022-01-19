@@ -4,12 +4,14 @@
   
   ![jogo_resgate](https://user-images.githubusercontent.com/81815496/149853720-3dfb7ec1-6bbe-4d33-a33f-019e19d8c524.jpg)
   
-Desenvolvi esse jogo utilizando o bloco de notas, diferente de editores modernos, ele não mostra onde está o erro, 
-e isso foi um grande estímulo para o meu crescimento como programadora.
- 
+Desenvolvi esse jogo utilizando a ferramenta bloco de notas, diferente de editores modernos ele não mostra onde está o erro, 
+por isso precisei dedidar atenção total a cada linha digitada, foi um ótimo exercício para manter o foco e um grande estímulo para 
+o meu crescimento como programadora. 
+
 A oportunidade de criar funções aninhadas e com parâmetros expandiu meus horizontes de como esse procedimento é fundamental para criar 
 os mais diversos eventos, expandindo a interatividade com o usuário. 
-Durante esse projeto enfrentei dificuldade ao selecionar e posicionar corretamente os componentes na tela, errei muito até filnamente acertar.
+Durante esse projeto enfrentei dificuldade ao selecionar e posicionar corretamente os elementos na tela, confesso que errei muito 
+até filnamente acertar.
     
   ## Sobre o Resultado Final
   
